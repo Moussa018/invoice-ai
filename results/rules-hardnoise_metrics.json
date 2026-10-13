@@ -1,0 +1,31 @@
+{
+  "name": "rules-hardnoise",
+  "n_docs": 156,
+  "parse_failures": 0,
+  "field_accuracy": {
+    "invoice_number": 0.9103,
+    "date": 0.9808,
+    "vendor": 0.9744,
+    "currency": 0.9744,
+    "tax_amount": 0.9231,
+    "total_amount": 0.9679
+  },
+  "macro_field_accuracy": 0.9551,
+  "doc_exact_match": 0.8654,
+  "description_token_f1": 0.764,
+  "latency_s": {
+    "mean": 0.0001,
+    "p50": 0.0001,
+    "p95": 0.0001,
+    "total": 0.02
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0,
+    "input_per_doc": 0.0,
+    "output_per_doc": 0.0
+  },
+  "cost_usd": null,
+  "cost_per_1k_docs_usd": null,
+  "split": "all"
+}

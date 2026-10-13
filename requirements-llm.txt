@@ -1,0 +1,6 @@
+# Optional: prompted Claude backend and local / LoRA backend
+anthropic
+torch
+transformers
+peft
+accelerate

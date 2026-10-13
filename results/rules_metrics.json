@@ -1,0 +1,31 @@
+{
+  "name": "rules",
+  "n_docs": 184,
+  "parse_failures": 0,
+  "field_accuracy": {
+    "invoice_number": 1.0,
+    "date": 1.0,
+    "vendor": 1.0,
+    "currency": 1.0,
+    "tax_amount": 0.9946,
+    "total_amount": 1.0
+  },
+  "macro_field_accuracy": 0.9991,
+  "doc_exact_match": 0.9946,
+  "description_token_f1": 0.9417,
+  "latency_s": {
+    "mean": 0.0001,
+    "p50": 0.0001,
+    "p95": 0.0002,
+    "total": 0.02
+  },
+  "tokens": {
+    "input": 0,
+    "output": 0,
+    "input_per_doc": 0.0,
+    "output_per_doc": 0.0
+  },
+  "cost_usd": null,
+  "cost_per_1k_docs_usd": null,
+  "split": "test"
+}

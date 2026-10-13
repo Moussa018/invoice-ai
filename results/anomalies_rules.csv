@@ -1,0 +1,417 @@
+id,vendor,invoice_number,date,total_amount,booked_category,flag_duplicate,duplicate_of,flag_amount,amount_z,amount_reason,flag_category,predicted_category,category_conf
+inv_0001,PrintPoint,PPT-2026-66606,2026-04-09,68.69,Office Supplies,False,,False,-0.82,,False,Office Supplies,0.895
+inv_0002,Papeterie Centrale,PCE-2026-17975,2026-04-04,502.97,Office Supplies,False,,False,-0.47,,False,Office Supplies,0.972
+inv_0003,Sahara Advisory,SAH-2025-20244,2025-05-06,17008.52,Consulting,False,,False,1.9,,False,Consulting,0.925
+inv_0004,Eau et Lumiere SA,ELS-2025-87535,2025-06-16,2352.24,Utilities,False,,False,-0.62,,False,Utilities,0.96
+inv_0005,Papeterie Centrale,PCE-2025-94654,2025-04-05,2941.73,Office Supplies,False,,True,7.37,amount,False,Office Supplies,0.977
+inv_0006,OfficeMart Maroc,OMM-2025-11019,2025-04-18,2205.79,Office Supplies,False,,False,0.95,,False,Office Supplies,0.898
+inv_0007,PrintPoint,PPT-2026-19578,2026-02-20,67.56,Office Supplies,False,,False,-0.87,,False,Office Supplies,0.682
+inv_0008,PrintPoint,PPT-2025-83158,2025-01-18,88.42,Office Supplies,False,,False,-0.1,,False,Office Supplies,0.766
+inv_0009,Maghreb Air Voyages,MAV-2026-01514,2026-04-10,3234.76,Travel,False,,False,-0.84,,False,Travel,0.969
+inv_0010,Rapide Rail Tickets,RRT-2025-40894,2025-07-26,182.24,Travel,False,,False,0.3,,False,Travel,0.968
+inv_0011,TelecomNet Maroc,TNM-2026-24833,2026-07-19,862.91,Utilities,False,,False,-0.69,,False,Utilities,0.619
+inv_0012,OfficeMart Maroc,OMM-2025-26035,2025-12-17,1764.13,Office Supplies,False,,False,0.15,,False,Office Supplies,0.977
+inv_0013,Nimbus Data Services,NDS-2026-66315,2026-01-26,4052.98,Software & Cloud,False,,False,2.59,,False,Software & Cloud,0.952
+inv_0014,PrintPoint,PPT-2026-00475,2026-04-02,77.48,Office Supplies,False,,False,-0.48,,False,Office Supplies,0.929
+inv_0015,Sahara Advisory,SAH-2025-00141,2025-07-07,57220.03,Consulting,False,,True,7.45,amount,False,Consulting,0.954
+inv_0016,Riad Hotels Group,RHG-2026-76914,2026-02-14,2940.96,Travel,False,,False,0.03,,False,Travel,0.816
+inv_0017,CodeForge Licenses,CFL-2026-69362,2026-08-23,2533.14,Software & Cloud,False,,False,0.44,,False,Software & Cloud,0.775
+inv_0018,TelecomNet Maroc,TNM-2025-68650,2025-05-23,939.97,Utilities,False,,False,-0.45,,False,Utilities,0.886
+inv_0019,Atlas Cloud Hosting,ACH-2026-89217,2026-06-29,3387.04,Software & Cloud,False,,False,0.0,,False,Software & Cloud,0.952
+inv_0020,PrintPoint,PPT-2025-95596,2025-08-29,121.39,Office Supplies,False,,False,0.8,,False,Office Supplies,0.792
+inv_0021,TechParts Casablanca,TPC-2025-62785,2025-03-20,11090.54,Equipment,False,,False,0.63,,False,Equipment,0.863
+inv_0022,Riad Hotels Group,RHG-2025-33285,2025-12-06,2314.26,Travel,False,,False,-1.2,,False,Travel,0.976
+inv_0023,TelecomNet Maroc,TNM-2025-60905,2025-10-20,654.73,Utilities,False,,False,-1.49,,False,Utilities,0.706
+inv_0024,Papeterie Centrale,PCE-2025-76215,2025-03-18,602.14,Office Supplies,False,,False,0.33,,False,Office Supplies,0.955
+inv_0025,Riad Hotels Group,RHG-2026-82795,2026-09-10,1412.58,Travel,False,,True,-3.75,amount,False,Travel,0.944
+inv_0026,Riad Hotels Group,RHG-2026-45084,2026-03-03,2550.76,Travel,False,,False,-0.7,,False,Travel,0.966
+inv_0027,Papeterie Centrale,PCE-2025-96982,2025-01-13,502.63,Office Supplies,False,,False,-0.48,,False,Office Supplies,0.976
+inv_0028,Nimbus Data Services,NDS-2025-83226,2025-10-20,1429.63,Software & Cloud,False,,False,0.41,,False,Software & Cloud,0.96
+inv_0029,Papeterie Centrale,PCE-2026-56066,2026-01-18,813.46,Office Supplies,False,,False,1.66,,False,Office Supplies,0.98
+inv_0030,Pixel Studio Agency,PSA-2025-22383,2025-05-11,4333.56,Marketing,False,,False,-1.02,,False,Marketing,0.953
+inv_0031,Sahara Advisory,SAH-2026-73050,2026-05-10,10587.6,Consulting,False,,False,-0.27,,False,Consulting,0.98
+inv_0032,Pixel Studio Agency,PSA-2025-31993,2025-07-17,5466.96,Marketing,False,,False,-0.13,,False,Marketing,0.949
+inv_0033,Optima Audit Firm,OAF-2025-74661,2025-09-22,13438.37,Consulting,False,,False,-0.37,,False,Consulting,0.931
+inv_0034,Eau et Lumiere SA,ELS-2025-75273,2025-10-12,2924.02,Utilities,False,,False,0.15,,False,Utilities,0.974
+inv_0035,Hardware Hub,HWH-2025-02859,2025-11-16,5682.48,Equipment,False,,False,0.67,,False,Equipment,0.915
+inv_0036,Maghreb Air Voyages,MAV-2025-20235,2025-08-18,4965.99,Travel,False,,False,0.66,,False,Travel,0.919
+inv_0037,LabTools Maroc,LTM-2025-72287,2025-03-29,3489.18,Equipment,False,,False,-0.04,,False,Equipment,0.969
+inv_0038,Sahara Advisory,SAH-2025-82114,2025-05-12,11225.08,Consulting,False,,False,0.0,,False,Consulting,0.948
+inv_0039,AdWave Media,AWM-2025-50867,2025-07-16,2777.52,Marketing,False,,False,-0.59,,False,Marketing,0.933
+inv_0040,Delta Legal Partners,DLP-2025-62300,2025-09-06,4481.45,Consulting,False,,False,1.59,,False,Consulting,0.868
+inv_0041,Hardware Hub,HWH-2025-87472,2025-08-22,14781.29,Equipment,False,,True,5.64,amount,False,Equipment,0.924
+inv_0042,Sahara Advisory,SAH-2026-08839,2026-06-01,13009.5,Consulting,False,,False,0.67,,False,Consulting,0.564
+inv_0043,Papeterie Centrale,PCE-2025-60964,2025-08-25,591.12,Office Supplies,False,,False,0.24,,False,Office Supplies,0.973
+inv_0044,Nimbus Data Services,NDS-2026-19187,2026-09-02,1778.92,Software & Cloud,False,,False,0.87,,False,Software & Cloud,0.935
+inv_0045,Rapide Rail Tickets,RRT-2026-58936,2026-02-07,217.43,Travel,False,,False,0.75,,False,Travel,0.969
+inv_0046,TechParts Casablanca,TPC-2026-43477,2026-01-18,6207.41,Software & Cloud,False,,False,-0.79,,True,Equipment,0.875
+inv_0047,Papeterie Centrale,PCE-2026-46745,2026-01-25,556.61,Office Supplies,False,,False,-0.02,,False,Office Supplies,0.969
+inv_0048,Eau et Lumiere SA,ELS-2025-82794,2025-02-01,2136.64,Utilities,False,,False,-0.97,,False,Utilities,0.966
+inv_0049,CodeForge Licenses,CFL-2026-44443,2026-09-13,1910.92,Software & Cloud,False,,False,-0.73,,False,Software & Cloud,0.703
+inv_0050,LabTools Maroc,LTM-2026-32906,2026-01-31,4274.03,Equipment,False,,False,0.6,,False,Equipment,0.958
+inv_0051,Delta Legal Partners,DLP-2025-60396,2025-11-24,1881.72,Consulting,False,,False,-0.86,,False,Consulting,0.947
+inv_0052,CodeForge Licenses,CFL-2025-63137,2025-02-04,3400.31,Software & Cloud,False,,False,1.66,,False,Software & Cloud,0.551
+inv_0053,Eau et Lumiere SA,ELS-2026-22701,2026-04-03,2846.59,Utilities,False,,False,0.06,,False,Utilities,0.978
+inv_0054,Papeterie Centrale,PCE-2026-32432,2026-03-26,736.27,Office Supplies,False,,False,1.22,,False,Office Supplies,0.959
+inv_0055,AdWave Media,AWM-2025-42774,2025-07-12,3552.12,Marketing,False,,False,0.0,,False,Marketing,0.944
+inv_0056,Nimbus Data Services,NDS-2025-00589,2025-04-15,1182.24,Software & Cloud,False,,False,0.01,,False,Software & Cloud,0.807
+inv_0057,Papeterie Centrale,PCE-2026-76441,2026-09-07,562.46,Office Supplies,False,,False,0.02,,False,Office Supplies,0.981
+inv_0058,Riad Hotels Group,RHG-2025-26736,2025-02-15,2950.9,Travel,False,,False,0.05,,False,Travel,0.962
+inv_0059,Sahara Advisory,SAH-2025-26662,2025-03-21,16083.16,Consulting,False,,False,1.64,,False,Consulting,0.947
+inv_0060,TechParts Casablanca,TPC-2025-53712,2025-10-05,9642.38,Equipment,False,,False,0.29,,False,Equipment,0.92
+inv_0061,Optima Audit Firm,OAF-2025-51214,2025-07-21,12837.36,Consulting,False,,False,-0.56,,False,Consulting,0.953
+inv_0062,CodeForge Licenses,CFL-2026-75733,2026-02-20,1865.71,Software & Cloud,False,,False,-0.82,,False,Software & Cloud,0.911
+inv_0063,Optima Audit Firm,OAF-2026-22504,2026-06-01,15320.84,Consulting,False,,False,0.2,,False,Consulting,0.984
+inv_0064,Nimbus Data Services,NDS-2026-41226,2026-05-10,1311.65,Software & Cloud,False,,False,0.23,,False,Software & Cloud,0.947
+inv_0065,Rapide Rail Tickets,RRT-2025-81403,2025-08-16,81.75,Travel,False,,False,-1.75,,False,Travel,0.947
+inv_0066,Riad Hotels Group,RHG-2025-95012,2025-09-10,3664.55,Travel,False,,False,1.17,,False,Travel,0.91
+inv_0067,Delta Legal Partners,DLP-2025-51097,2025-05-01,1941.31,Consulting,False,,False,-0.78,,False,Consulting,0.736
+inv_0068,Eau et Lumiere SA,ELS-2026-30835,2026-04-22,2210.66,Utilities,False,,False,-0.84,,False,Utilities,0.962
+inv_0069,Optima Audit Firm,OAF-2026-47885,2026-03-17,17321.11,Consulting,False,,False,0.73,,False,Consulting,0.915
+inv_0070,Riad Hotels Group,RHG-2025-08701,2025-01-27,3149.82,Travel,False,,False,0.39,,False,Travel,0.935
+inv_0071,PrintPoint,PPT-2025-42447,2025-06-12,116.24,Office Supplies,False,,False,0.68,,False,Office Supplies,0.748
+inv_0072,OfficeMart Maroc,OMM-2025-48794,2025-11-23,1556.09,Office Supplies,False,,False,-0.29,,False,Office Supplies,0.962
+inv_0073,PrintPoint,PPT-2025-49394,2025-12-02,124.13,Office Supplies,False,,False,0.86,,False,Office Supplies,0.895
+inv_0074,LabTools Maroc,LTM-2026-68348,2026-07-23,5506.1,Equipment,False,,False,1.4,,False,Equipment,0.971
+inv_0075,AdWave Media,AWM-2025-10668,2025-12-05,11466.72,Marketing,False,,False,2.81,,False,Marketing,0.95
+inv_0076,Sahara Advisory,SAH-2026-82002,2026-09-23,12182.39,Consulting,False,,False,0.37,,False,Consulting,0.918
+inv_0077,Atlas Cloud Hosting,ACH-2026-46526,2026-08-04,2977.27,Software & Cloud,False,,False,-0.34,,False,Software & Cloud,0.972
+inv_0078,OfficeMart Maroc,OMM-2025-59095,2025-06-02,2540.2,Office Supplies,False,,False,1.45,,False,Office Supplies,0.969
+inv_0079,PrintPoint,PPT-2025-07358,2025-01-12,75.79,Office Supplies,False,,False,-0.54,,False,Office Supplies,0.902
+inv_0080,Atlas Cloud Hosting,ACH-2025-08065,2025-02-15,2477.58,Software & Cloud,False,,False,-0.82,,False,Software & Cloud,0.969
+inv_0081,TelecomNet Maroc,TNM-2026-84240,2026-09-15,703.04,Consulting,False,,False,-1.28,,True,Utilities,0.924
+inv_0082,LabTools Maroc,LTM-2025-97224,2025-03-24,3415.31,Equipment,False,,False,-0.1,,False,Equipment,0.926
+inv_0083,PrintPoint,PPT-2026-89029,2026-07-22,59.02,Office Supplies,False,,False,-1.25,,False,Office Supplies,0.967
+inv_0084,Delta Legal Partners,DLP-2025-50949,2025-07-16,3246.48,Consulting,False,,False,0.68,,False,Consulting,0.898
+inv_0085,Atlas Cloud Hosting,ACH-2025-57307,2025-01-28,4147.34,Software & Cloud,False,,False,0.53,,False,Software & Cloud,0.933
+inv_0086,Maghreb Air Voyages,MAV-2025-81523,2025-04-20,3728.77,Travel,False,,False,-0.35,,False,Travel,0.947
+inv_0087,Riad Hotels Group,RHG-2025-91359,2025-02-13,2872.69,Travel,False,,False,-0.09,,False,Travel,0.946
+inv_0088,Maghreb Air Voyages,MAV-2025-04513,2025-02-04,4114.83,Travel,False,,False,0.0,,False,Travel,0.979
+inv_0089,PrintPoint,PPT-2025-45994,2025-01-22,95.03,Office Supplies,False,,False,0.1,,False,Office Supplies,0.951
+inv_0090,Maghreb Air Voyages,MAV-2025-61466,2025-12-22,5055.77,Travel,False,,False,0.72,,False,Travel,0.975
+inv_0091,Eau et Lumiere SA,ELS-2025-64420,2025-04-08,2284.34,Utilities,False,,False,-0.73,,False,Utilities,0.966
+inv_0092,OfficeMart Maroc,OMM-2026-21731,2026-05-26,1062.1,Office Supplies,False,,False,-1.65,,False,Office Supplies,0.92
+inv_0093,Pixel Studio Agency,PSA-2025-82305,2025-04-18,5864.06,Marketing,False,,False,0.13,,False,Marketing,0.943
+inv_0094,Hardware Hub,HWH-2026-65692,2026-07-13,5135.71,Equipment,False,,False,0.15,,False,Equipment,0.949
+inv_0095,Riad Hotels Group,RHG-2026-77869,2026-06-29,2677.51,Travel,False,,False,-0.45,,False,Travel,0.978
+inv_0096,PrintPoint,PPT-2025-43786,2025-05-10,489.72,Office Supplies,False,,True,4.76,amount,False,Office Supplies,0.952
+inv_0097,Delta Legal Partners,DLP-2026-68444,2026-09-10,2323.01,Consulting,False,,False,-0.27,,False,Consulting,0.886
+inv_0098,Maghreb Air Voyages,MAV-2025-50363,2025-07-20,4737.58,Travel,False,,False,0.49,,False,Travel,0.941
+inv_0099,Papeterie Centrale,PCE-2025-83622,2025-04-22,664.08,Office Supplies,False,,False,0.76,,False,Office Supplies,0.979
+inv_0100,Sahara Advisory,SAH-2026-02899,2026-04-20,10023.31,Software & Cloud,False,,False,-0.52,,True,Consulting,0.903
+inv_0101,Hardware Hub,HWH-2026-76996,2026-08-11,4551.91,Equipment,False,,False,-0.48,,False,Equipment,0.835
+inv_0102,Maghreb Air Voyages,MAV-2026-56693,2026-04-10,2893.75,Travel,False,,False,-1.23,,False,Travel,0.969
+inv_0103,Hardware Hub,HWH-2026-59664,2026-05-10,8216.32,Equipment,False,,False,2.59,,False,Equipment,0.804
+inv_0104,Rapide Rail Tickets,RRT-2025-68056,2025-07-24,1361.57,Travel,False,,True,5.45,amount,False,Travel,0.969
+inv_0105,Hardware Hub,HWH-2026-27537,2026-04-13,5518.8,Marketing,False,,False,0.52,,True,Equipment,0.96
+inv_0106,Optima Audit Firm,OAF-2026-34755,2026-08-18,13046.83,Consulting,False,,False,-0.49,,False,Consulting,0.919
+inv_0107,TelecomNet Maroc,TNM-2025-51376,2025-08-13,906.79,Utilities,False,,False,-0.55,,False,Utilities,0.641
+inv_0108,Riad Hotels Group,RHG-2025-87299,2025-12-28,2754.36,Travel,False,,False,-0.3,,False,Travel,0.838
+inv_0109,TechParts Casablanca,TPC-2025-55851,2025-09-17,7756.28,Equipment,False,,False,-0.25,,False,Equipment,0.846
+inv_0110,TechParts Casablanca,TPC-2025-11178,2025-02-28,6600.65,Equipment,False,,False,-0.64,,False,Equipment,0.883
+inv_0111,AdWave Media,AWM-2025-30624,2025-05-27,3277.9,Marketing,False,,False,-0.19,,False,Marketing,0.933
+inv_0112,CodeForge Licenses,CFL-2026-83440,2026-07-16,3085.39,Software & Cloud,False,,False,1.26,,False,Software & Cloud,0.884
+inv_0113,PrintPoint,PPT-2026-30694,2026-03-06,112.43,Office Supplies,False,,False,0.58,,False,Office Supplies,0.891
+inv_0114,LabTools Maroc,LTM-2026-65223,2026-07-31,2576.39,Equipment,False,,False,-0.99,,False,Equipment,0.902
+inv_0115,Nimbus Data Services,NDS-2025-12318,2025-12-05,765.12,Software & Cloud,False,,False,-0.9,,False,Software & Cloud,0.953
+inv_0116,Delta Legal Partners,DLP-2025-86380,2025-04-07,2579.83,Consulting,False,,False,0.03,,False,Consulting,0.815
+inv_0117,Hardware Hub,HWH-2025-72618,2025-09-15,5764.44,Equipment,False,,False,0.75,,False,Equipment,0.761
+inv_0118,Maghreb Air Voyages,MAV-2025-25207,2025-12-05,4292.43,Travel,False,,False,0.15,,False,Travel,0.967
+inv_0119,Pixel Studio Agency,PSA-2026-71487,2026-02-20,4761.89,Marketing,False,,False,-0.66,,False,Marketing,0.937
+inv_0120,Nimbus Data Services,NDS-2026-71258,2026-05-28,942.95,Software & Cloud,False,,False,-0.46,,False,Software & Cloud,0.92
+inv_0121,Hardware Hub,HWH-2025-85947,2025-04-14,8359.27,Equipment,False,,False,2.68,,False,Equipment,0.932
+inv_0122,Rapide Rail Tickets,RRT-2026-04489,2026-03-08,138.95,Travel,False,,False,-0.39,,False,Travel,0.969
+inv_0123,Nimbus Data Services,NDS-2025-55191,2025-05-02,593.81,Software & Cloud,False,,False,-1.43,,False,Software & Cloud,0.972
+inv_0124,Pixel Studio Agency,PSA-2025-10870,2025-04-15,4593.72,Marketing,False,,False,-0.8,,False,Marketing,0.973
+inv_0125,Riad Hotels Group,RHG-2026-02331,2026-04-29,2481.38,Travel,False,,False,-0.84,,False,Travel,0.934
+inv_0126,Pixel Studio Agency,PSA-2026-87759,2026-04-17,87315.11,Marketing,False,,True,10.45,amount,False,Marketing,0.939
+inv_0127,Rapide Rail Tickets,RRT-2026-79817,2026-05-14,172.4,Travel,False,,False,0.16,,False,Travel,0.965
+inv_0128,LabTools Maroc,LTM-2025-98930,2025-10-06,3866.6,Equipment,False,,False,0.29,,False,Equipment,0.902
+inv_0129,Sahara Advisory,SAH-2026-56173,2026-08-22,14248.32,Consulting,False,,False,1.09,,False,Consulting,0.952
+inv_0130,Delta Legal Partners,DLP-2025-35131,2025-09-27,2553.46,Consulting,False,,False,0.0,,False,Consulting,0.896
+inv_0131,Pixel Studio Agency,PSA-2026-45463,2026-05-27,4331.46,Marketing,False,,False,-1.02,,False,Marketing,0.982
+inv_0132,TechParts Casablanca,TPC-2026-92844,2026-04-22,8303.57,Equipment,False,,False,-0.08,,False,Equipment,0.941
+inv_0133,LabTools Maroc,LTM-2026-11496,2026-07-08,2646.54,Equipment,False,,False,-0.91,,False,Equipment,0.968
+inv_0134,TelecomNet Maroc,TNM-2025-62468,2025-11-25,1013.76,Utilities,False,,False,-0.23,,False,Utilities,0.857
+inv_0135,TelecomNet Maroc,TNM-2025-32284,2025-06-02,2897.17,Utilities,False,,False,2.79,,False,Utilities,0.604
+inv_0136,Optima Audit Firm,OAF-2025-68087,2025-10-15,17534.59,Consulting,False,,False,0.78,,False,Consulting,0.948
+inv_0137,LabTools Maroc,LTM-2026-79787,2026-08-31,4352.16,Equipment,False,,False,0.66,,False,Equipment,0.547
+inv_0138,Atlas Cloud Hosting,ACH-2025-04563,2025-02-22,3188.92,Software & Cloud,False,,False,-0.16,,False,Software & Cloud,0.942
+inv_0139,AdWave Media,AWM-2025-83970,2025-08-27,5097.94,Marketing,False,,False,0.86,,False,Marketing,0.958
+inv_0140,Optima Audit Firm,OAF-2025-72462,2025-03-02,18944.69,Consulting,False,,False,1.12,,False,Consulting,0.898
+inv_0141,Riad Hotels Group,RHG-2025-98953,2025-11-22,3223.51,Office Supplies,False,,False,0.51,,True,Travel,0.979
+inv_0142,Riad Hotels Group,RHG-2025-61329,2025-01-13,2659.21,Travel,False,,False,-0.49,,False,Travel,0.949
+inv_0143,TechParts Casablanca,TPC-2025-82362,2025-01-23,18408.18,Equipment,False,,False,1.87,,False,Equipment,0.834
+inv_0144,Rapide Rail Tickets,RRT-2026-72532,2026-04-08,190.24,Travel,False,,False,0.41,,False,Travel,0.942
+inv_0145,OfficeMart Maroc,OMM-2025-03332,2025-06-09,1668.44,Office Supplies,False,,False,-0.05,,False,Office Supplies,0.946
+inv_0146,TelecomNet Maroc,TNM-2025-82707,2025-02-28,1907.59,Utilities,False,,False,1.59,,False,Utilities,0.714
+inv_0147,Maghreb Air Voyages,MAV-2026-37936,2026-02-04,3394.81,Travel,False,,False,-0.67,,False,Travel,0.972
+inv_0148,Hardware Hub,HWH-2025-53601,2025-02-11,4990.63,Equipment,False,,False,0.0,,False,Equipment,0.912
+inv_0149,TelecomNet Maroc,TNM-2025-93274,2025-08-24,1297.01,Utilities,False,,False,0.48,,False,Utilities,0.641
+inv_0150,Riad Hotels Group,RHG-2026-87806,2026-09-20,3794.99,Travel,False,,False,1.35,,False,Travel,0.946
+inv_0151,Eau et Lumiere SA,ELS-2025-02025,2025-04-03,1797.24,Utilities,False,,False,-1.58,,False,Utilities,0.913
+inv_0152,Optima Audit Firm,OAF-2025-21429,2025-02-07,17362.0,Consulting,False,,False,0.74,,False,Consulting,0.931
+inv_0153,Delta Legal Partners,DLP-2026-75539,2026-01-26,26747.12,Consulting,False,,True,6.65,amount,False,Consulting,0.935
+inv_0154,Pixel Studio Agency,PSA-2025-02712,2025-05-18,5608.92,Marketing,False,,False,-0.04,,False,Marketing,0.952
+inv_0155,Sahara Advisory,SAH-2025-72793,2025-09-14,11751.44,Consulting,False,,False,0.21,,False,Consulting,0.953
+inv_0156,AdWave Media,AWM-2026-68540,2026-04-21,2691.65,Marketing,False,,False,-0.66,,False,Marketing,0.912
+inv_0157,Rapide Rail Tickets,RRT-2025-35785,2025-02-16,169.55,Travel,False,,False,0.12,,False,Travel,0.972
+inv_0158,LabTools Maroc,LTM-2026-21539,2026-02-11,4443.5,Equipment,False,,False,0.73,,False,Equipment,0.822
+inv_0159,TelecomNet Maroc,TNM-2025-51857,2025-02-07,1189.22,Utilities,False,,False,0.23,,False,Utilities,0.853
+inv_0160,Pixel Studio Agency,PSA-2025-42583,2025-02-24,6128.27,Marketing,False,,False,0.3,,False,Marketing,0.975
+inv_0161,Papeterie Centrale,PCE-2026-87706,2026-06-01,635.59,Office Supplies,False,,False,0.57,,False,Office Supplies,0.976
+inv_0162,PrintPoint,PPT-2025-82346,2025-10-07,98.09,Consulting,False,,False,0.19,,True,Office Supplies,0.938
+inv_0163,Rapide Rail Tickets,RRT-2025-07909,2025-05-04,70.84,Travel,False,,False,-2.12,,False,Travel,0.973
+inv_0164,PrintPoint,PPT-2025-96460,2025-09-07,63.17,Office Supplies,False,,False,-1.06,,False,Office Supplies,0.902
+inv_0165,AdWave Media,AWM-2026-26371,2026-01-31,11794.34,Marketing,False,,False,2.87,,False,Marketing,0.96
+inv_0166,Optima Audit Firm,OAF-2025-31267,2025-06-16,12110.05,Consulting,False,,False,-0.82,,False,Consulting,0.879
+inv_0167,Atlas Cloud Hosting,ACH-2025-72238,2025-06-12,5851.39,Software & Cloud,False,,False,1.43,,False,Software & Cloud,0.919
+inv_0168,Riad Hotels Group,RHG-2026-44174,2026-03-03,3381.51,Travel,False,,False,0.75,,False,Travel,0.939
+inv_0169,Riad Hotels Group,RHG-2026-13548,2026-02-27,4400.21,Travel,False,,False,2.11,,False,Travel,0.934
+inv_0170,LabTools Maroc,LTM-2025-94774,2025-10-22,3528.67,Software & Cloud,False,,False,0.0,,True,Equipment,0.938
+inv_0171,Eau et Lumiere SA,ELS-2025-24145,2025-11-04,10983.42,Utilities,False,,True,4.88,amount,False,Utilities,0.933
+inv_0172,OfficeMart Maroc,OMM-2025-26780,2025-11-30,1589.86,Office Supplies,False,,False,-0.22,,False,Office Supplies,0.979
+inv_0173,Sahara Advisory,SAH-2026-81264,2026-07-06,16374.97,Utilities,False,,False,1.73,,True,Consulting,0.737
+inv_0174,Hardware Hub,HWH-2026-65656,2026-01-19,4542.72,Equipment,False,,False,-0.49,,False,Equipment,0.923
+inv_0175,AdWave Media,AWM-2025-90647,2025-12-18,1674.9,Marketing,False,,False,-1.8,,False,Marketing,0.844
+inv_0176,TelecomNet Maroc,TNM-2025-14485,2025-06-29,973.42,Utilities,False,,False,-0.35,,False,Utilities,0.881
+inv_0177,AdWave Media,AWM-2026-13975,2026-09-10,1617.11,Marketing,False,,False,-1.88,,False,Marketing,0.973
+inv_0178,AdWave Media,AWM-2025-87571,2025-01-16,6169.57,Marketing,False,,False,1.32,,False,Marketing,0.943
+inv_0179,Pixel Studio Agency,PSA-2026-18838,2026-06-11,4737.17,Marketing,False,,False,-0.68,,False,Marketing,0.937
+inv_0180,CodeForge Licenses,CFL-2025-68485,2025-06-24,1983.66,Software & Cloud,False,,False,-0.57,,False,Software & Cloud,0.742
+inv_0181,OfficeMart Maroc,OMM-2025-36104,2025-12-29,2018.52,Office Supplies,False,,False,0.63,,False,Office Supplies,0.929
+inv_0182,TechParts Casablanca,TPC-2025-07167,2025-01-21,11065.5,Equipment,False,,False,0.62,,False,Equipment,0.972
+inv_0183,OfficeMart Maroc,OMM-2025-29216,2025-09-13,3507.41,Consulting,False,,False,2.6,,True,Office Supplies,0.935
+inv_0184,PrintPoint,PPT-2026-08851,2026-05-23,115.99,Office Supplies,False,,False,0.67,,False,Office Supplies,0.939
+inv_0185,TechParts Casablanca,TPC-2026-02940,2026-05-12,9551.47,Equipment,False,,False,0.26,,False,Equipment,0.9
+inv_0186,Sahara Advisory,SAH-2026-73602,2026-02-10,9185.15,Consulting,False,,False,-0.92,,False,Consulting,0.908
+inv_0187,Hardware Hub,HWH-2025-72594,2025-12-26,4588.44,Equipment,False,,False,-0.44,,False,Equipment,0.879
+inv_0188,OfficeMart Maroc,OMM-2025-12142,2025-05-13,2188.3,Office Supplies,False,,False,0.92,,False,Consulting,0.538
+inv_0189,LabTools Maroc,LTM-2025-20870,2025-09-03,3021.02,Equipment,False,,False,-0.49,,False,Equipment,0.949
+inv_0190,Riad Hotels Group,RHG-2025-78113,2025-09-25,3081.45,Travel,False,,False,0.27,,False,Travel,0.895
+inv_0191,Maghreb Air Voyages,MAV-2026-11990,2026-06-10,3147.17,Travel,False,,False,-0.94,,False,Travel,0.959
+inv_0192,OfficeMart Maroc,OMM-2025-24683,2025-11-25,1690.08,Office Supplies,False,,False,0.0,,False,Office Supplies,0.976
+inv_0193,TechParts Casablanca,TPC-2025-46649,2025-10-17,5248.04,Marketing,False,,False,-1.21,,True,Equipment,0.943
+inv_0194,LabTools Maroc,LTM-2025-52498,2025-09-12,5061.6,Equipment,False,,False,1.14,,False,Equipment,0.968
+inv_0195,Rapide Rail Tickets,RRT-2026-25964,2026-03-18,133.01,Travel,False,,False,-0.5,,False,Travel,0.97
+inv_0196,Maghreb Air Voyages,MAV-2025-05631,2025-10-21,3325.37,Travel,False,,False,-0.75,,False,Travel,0.971
+inv_0197,TechParts Casablanca,TPC-2026-28941,2026-09-23,8774.81,Equipment,False,,False,0.05,,False,Equipment,0.934
+inv_0198,Papeterie Centrale,PCE-2026-88228,2026-03-15,613.58,Office Supplies,False,,False,0.41,,False,Office Supplies,0.978
+inv_0199,OfficeMart Maroc,OMM-2026-34116,2026-07-11,1800.38,Office Supplies,False,,False,0.23,,False,Office Supplies,0.947
+inv_0200,Eau et Lumiere SA,ELS-2026-31179,2026-05-10,3065.47,Utilities,False,,False,0.32,,False,Utilities,0.977
+inv_0201,Maghreb Air Voyages,MAV-2026-55658,2026-07-16,4008.06,Travel,False,,False,-0.09,,False,Travel,0.979
+inv_0202,PrintPoint,PPT-2025-25837,2025-11-08,80.0,Office Supplies,False,,False,-0.39,,False,Office Supplies,0.902
+inv_0203,LabTools Maroc,LTM-2026-74605,2026-04-25,3090.77,Equipment,False,,False,-0.42,,False,Equipment,0.968
+inv_0204,Delta Legal Partners,DLP-2026-34660,2026-08-01,3030.82,Consulting,False,,False,0.49,,False,Consulting,0.93
+inv_0205,Pixel Studio Agency,PSA-2025-01089,2025-11-26,5742.59,Marketing,False,,False,0.05,,False,Marketing,0.942
+inv_0206,Riad Hotels Group,RHG-2025-48220,2025-10-31,2921.51,Travel,False,,False,-0.0,,False,Travel,0.926
+inv_0207,Sahara Advisory,SAH-2026-42818,2026-09-24,8323.24,Consulting,False,,False,-1.37,,False,Consulting,0.948
+inv_0208,Nimbus Data Services,NDS-2025-74301,2025-04-20,1454.52,Software & Cloud,False,,False,0.45,,False,Software & Cloud,0.941
+inv_0209,OfficeMart Maroc,OMM-2025-18128,2025-06-17,855.6,Office Supplies,False,,False,-2.43,,False,Office Supplies,0.969
+inv_0210,Optima Audit Firm,OAF-2025-04198,2025-01-03,17419.3,Consulting,False,,False,0.75,,False,Consulting,0.982
+inv_0211,Rapide Rail Tickets,RRT-2025-49654,2025-06-18,120.38,Travel,False,,False,-0.76,,False,Travel,0.962
+inv_0212,CodeForge Licenses,CFL-2025-94735,2025-03-03,3112.7,Office Supplies,False,,False,1.29,,True,Software & Cloud,0.87
+inv_0213,LabTools Maroc,LTM-2025-19257,2025-03-29,2982.36,Equipment,False,,False,-0.53,,False,Equipment,0.913
+inv_0214,PrintPoint,PPT-2025-24582,2025-04-08,75.16,Office Supplies,False,,False,-0.56,,False,Office Supplies,0.843
+inv_0215,LabTools Maroc,LTM-2025-65947,2025-05-18,2216.05,Equipment,False,,False,-1.47,,False,Equipment,0.903
+inv_0216,TechParts Casablanca,TPC-2026-22447,2026-07-12,7758.74,Equipment,False,,False,-0.25,,False,Equipment,0.883
+inv_0217,Nimbus Data Services,NDS-2026-31052,2026-02-19,1174.38,Software & Cloud,False,,False,-0.0,,False,Software & Cloud,0.901
+inv_0218,Optima Audit Firm,OAF-2025-48102,2025-06-22,13542.46,Consulting,False,,False,-0.33,,False,Consulting,0.935
+inv_0219,Optima Audit Firm,OAF-2025-46628,2025-04-13,7882.92,Consulting,False,,False,-2.67,,False,Consulting,0.898
+inv_0220,Papeterie Centrale,PCE-2026-02790,2026-04-03,458.62,Office Supplies,False,,False,-0.88,,False,Office Supplies,0.975
+inv_0221,AdWave Media,AWM-2025-70574,2025-09-14,4785.65,Marketing,False,,False,0.71,,False,Marketing,0.932
+inv_0222,Nimbus Data Services,NDS-2025-23893,2025-03-18,1070.63,Software & Cloud,False,,False,-0.19,,False,Software & Cloud,0.936
+inv_0223,Papeterie Centrale,PCE-2025-17161,2025-11-15,500.51,Office Supplies,False,,False,-0.5,,False,Office Supplies,0.943
+inv_0224,TechParts Casablanca,TPC-2025-41204,2025-12-29,8581.1,Equipment,False,,False,0.0,,False,Equipment,0.969
+inv_0225,OfficeMart Maroc,OMM-2026-79779,2026-04-16,2115.77,Office Supplies,False,,False,0.8,,False,Office Supplies,0.978
+inv_0226,Hardware Hub,HWH-2026-83182,2026-08-09,4781.26,Equipment,False,,False,-0.22,,False,Equipment,0.936
+inv_0227,Riad Hotels Group,RHG-2025-39846,2025-03-15,3447.36,Travel,False,,False,0.85,,False,Travel,0.972
+inv_0228,Delta Legal Partners,DLP-2025-63107,2025-11-27,2478.14,Consulting,False,,False,-0.08,,False,Consulting,0.929
+inv_0229,Sahara Advisory,SAH-2025-76913,2025-06-22,14382.32,Consulting,False,,False,1.13,,False,Consulting,0.93
+inv_0230,Optima Audit Firm,OAF-2026-46790,2026-04-25,14630.17,Consulting,False,,False,0.0,,False,Consulting,0.922
+inv_0231,Atlas Cloud Hosting,ACH-2025-06252,2025-08-12,2857.55,Software & Cloud,False,,False,-0.44,,False,Software & Cloud,0.971
+inv_0232,AdWave Media,AWM-2025-94243,2025-12-16,3241.84,Marketing,False,,False,-0.22,,False,Marketing,0.931
+inv_0233,Atlas Cloud Hosting,ACH-2025-42146,2025-08-06,2665.81,Software & Cloud,False,,False,-0.62,,False,Software & Cloud,0.967
+inv_0234,TechParts Casablanca,TPC-2025-60736,2025-09-21,14004.25,Equipment,False,,False,1.2,,False,Equipment,0.817
+inv_0235,Delta Legal Partners,DLP-2025-12249,2025-06-10,3240.16,Consulting,False,,False,0.67,,False,Consulting,0.926
+inv_0236,PrintPoint,PPT-2026-04147,2026-05-05,98.34,Office Supplies,False,,False,0.2,,False,Office Supplies,0.942
+inv_0237,Optima Audit Firm,OAF-2025-82432,2025-06-04,14142.46,Consulting,False,,False,-0.15,,False,Consulting,0.925
+inv_0238,TelecomNet Maroc,TNM-2025-72778,2025-07-29,1779.88,Utilities,False,,False,1.39,,False,Utilities,0.521
+inv_0239,Rapide Rail Tickets,RRT-2025-69272,2025-06-15,220.26,Travel,False,,False,0.79,,False,Travel,0.945
+inv_0240,Optima Audit Firm,OAF-2026-60307,2026-02-03,14507.8,Consulting,False,,False,-0.04,,False,Consulting,0.963
+inv_0241,Atlas Cloud Hosting,ACH-2025-84602,2025-03-09,4936.85,Software & Cloud,False,,False,0.98,,False,Software & Cloud,0.947
+inv_0242,Atlas Cloud Hosting,ACH-2025-92965,2025-09-26,2664.4,Software & Cloud,False,,False,-0.63,,False,Software & Cloud,0.947
+inv_0243,Eau et Lumiere SA,ELS-2025-74649,2025-08-10,3010.01,Utilities,False,,False,0.26,,False,Utilities,0.961
+inv_0244,LabTools Maroc,LTM-2025-75921,2025-08-06,2500.42,Equipment,False,,False,-1.09,,False,Equipment,0.969
+inv_0245,LabTools Maroc,LTM-2025-56992,2025-07-06,6592.79,Equipment,False,,False,1.97,,False,Equipment,0.97
+inv_0246,Riad Hotels Group,RHG-2026-96472,2026-05-30,1266.8,Travel,False,,True,-4.31,amount,False,Travel,0.954
+inv_0247,TechParts Casablanca,TPC-2025-04315,2025-12-10,7570.3,Equipment,False,,False,-0.31,,False,Equipment,0.724
+inv_0248,Delta Legal Partners,DLP-2025-14464,2025-03-08,2382.29,Consulting,False,,False,-0.2,,False,Consulting,0.73
+inv_0249,OfficeMart Maroc,OMM-2026-19391,2026-07-08,1398.58,Office Supplies,False,,False,-0.67,,False,Office Supplies,0.92
+inv_0250,CodeForge Licenses,CFL-2025-29355,2025-08-09,11151.91,Software & Cloud,False,,True,6.57,amount,False,Software & Cloud,0.656
+inv_0251,Optima Audit Firm,OAF-2025-01389,2025-10-01,12682.97,Consulting,False,,False,-0.62,,False,Consulting,0.893
+inv_0252,Pixel Studio Agency,PSA-2026-50198,2026-03-06,6743.23,Marketing,False,,False,0.67,,False,Marketing,0.961
+inv_0253,Atlas Cloud Hosting,ACH-2025-79670,2025-09-02,1369.13,Software & Cloud,False,,False,-2.36,,False,Software & Cloud,0.976
+inv_0254,Delta Legal Partners,DLP-2026-71952,2026-03-30,2624.4,Consulting,False,,False,0.08,,False,Consulting,0.827
+inv_0255,TechParts Casablanca,TPC-2025-93346,2025-12-30,19119.28,Equipment,False,,False,1.96,,False,Equipment,0.963
+inv_0256,Eau et Lumiere SA,ELS-2025-68426,2025-12-23,3805.1,Utilities,False,,False,1.09,,False,Utilities,0.978
+inv_0257,Rapide Rail Tickets,RRT-2025-86746,2025-06-06,87.11,Travel,False,,False,-1.59,,False,Travel,0.968
+inv_0258,Optima Audit Firm,OAF-2026-86902,2026-01-01,14675.21,Marketing,False,,False,0.01,,True,Consulting,0.982
+inv_0259,Rapide Rail Tickets,RRT-2026-19646,2026-06-14,154.67,Travel,False,,False,-0.12,,False,Travel,0.934
+inv_0260,Papeterie Centrale,PCE-2025-74784,2025-01-01,543.2,Office Supplies,False,,False,-0.13,,False,Office Supplies,0.951
+inv_0261,LabTools Maroc,LTM-2025-68836,2025-04-04,2357.53,Equipment,False,,False,-1.27,,False,Equipment,0.975
+inv_0262,Optima Audit Firm,OAF-2025-94032,2025-02-14,8432.3,Consulting,False,,False,-2.38,,False,Consulting,0.924
+inv_0263,PrintPoint,PPT-2025-31278,2025-12-27,71.38,Office Supplies,False,,False,-0.71,,False,Office Supplies,0.891
+inv_0264,Eau et Lumiere SA,ELS-2025-14131,2025-01-27,3580.2,Utilities,False,,False,0.88,,False,Utilities,0.977
+inv_0265,Riad Hotels Group,RHG-2026-98672,2026-06-09,3231.26,Travel,False,,False,0.52,,False,Travel,0.928
+inv_0266,CodeForge Licenses,CFL-2026-02029,2026-08-08,1530.38,Software & Cloud,False,,False,-1.64,,False,Software & Cloud,0.924
+inv_0267,Nimbus Data Services,NDS-2025-93201,2025-07-24,794.96,Software & Cloud,False,,False,-0.82,,False,Software & Cloud,0.932
+inv_0268,Atlas Cloud Hosting,ACH-2025-70633,2025-07-10,5616.31,Software & Cloud,False,,False,1.32,,False,Software & Cloud,0.957
+inv_0269,Hardware Hub,HWH-2025-40220,2025-02-22,3725.11,Equipment,False,,False,-1.52,,False,Equipment,0.931
+inv_0270,Eau et Lumiere SA,ELS-2026-18519,2026-08-21,4867.7,Utilities,False,,False,1.97,,False,Utilities,0.961
+inv_0271,CodeForge Licenses,CFL-2026-74047,2026-02-23,2363.09,Software & Cloud,False,,False,0.15,,False,Software & Cloud,0.924
+inv_0272,AdWave Media,AWM-2026-59588,2026-09-18,2679.82,Marketing,False,,False,-0.67,,False,Marketing,0.946
+inv_0273,Maghreb Air Voyages,MAV-2025-17957,2025-02-20,4269.93,Travel,False,,False,0.13,,False,Travel,0.977
+inv_0274,Pixel Studio Agency,PSA-2025-19108,2025-06-12,5713.9,Marketing,False,,False,0.04,,False,Marketing,0.983
+inv_0275,LabTools Maroc,LTM-2026-20295,2026-03-11,5514.43,Equipment,False,,False,1.41,,False,Equipment,0.964
+inv_0276,OfficeMart Maroc,OMM-2026-41777,2026-08-20,1090.01,Office Supplies,False,,False,-1.56,,False,Office Supplies,0.972
+inv_0277,Delta Legal Partners,DLP-2026-20446,2026-01-25,2306.24,Consulting,False,,False,-0.29,,False,Consulting,0.825
+inv_0278,Maghreb Air Voyages,MAV-2025-86000,2025-08-04,3357.61,Travel,False,,False,-0.71,,False,Travel,0.977
+inv_0279,Sahara Advisory,SAH-2026-76535,2026-09-05,10061.5,Consulting,False,,False,-0.5,,False,Consulting,0.634
+inv_0280,Sahara Advisory,SAH-2025-76037,2025-02-03,11033.62,Consulting,False,,False,-0.08,,False,Consulting,0.98
+inv_0281,OfficeMart Maroc,OMM-2025-97302,2025-12-04,1636.94,Office Supplies,False,,False,-0.11,,False,Office Supplies,0.941
+inv_0282,Nimbus Data Services,NDS-2025-67288,2025-02-10,1204.4,Marketing,False,,False,0.05,,True,Software & Cloud,0.98
+inv_0283,Delta Legal Partners,DLP-2025-84511,2025-01-06,3357.05,Consulting,False,,False,0.77,,False,Consulting,0.655
+inv_0284,Eau et Lumiere SA,ELS-2025-70253,2025-10-04,2160.12,Utilities,False,,False,-0.93,,False,Utilities,0.978
+inv_0285,Pixel Studio Agency,PSA-2025-16662,2025-07-28,9358.48,Marketing,False,,False,1.92,,False,Marketing,0.94
+inv_0286,Riad Hotels Group,RHG-2025-04053,2025-09-28,2029.57,Travel,False,,False,-1.88,,False,Travel,0.911
+inv_0287,TelecomNet Maroc,TNM-2025-32211,2025-03-05,1378.42,Utilities,False,,False,0.66,,False,Utilities,0.769
+inv_0288,Delta Legal Partners,DLP-2025-99504,2025-03-28,2978.26,Consulting,False,,False,0.44,,False,Consulting,0.916
+inv_0289,OfficeMart Maroc,OMM-2025-96175,2025-06-01,1502.03,Office Supplies,False,,False,-0.42,,False,Office Supplies,0.967
+inv_0290,Eau et Lumiere SA,ELS-2025-65186,2025-02-08,2724.36,Utilities,False,,False,-0.1,,False,Utilities,0.977
+inv_0291,Eau et Lumiere SA,ELS-2026-17688,2026-05-24,2686.56,Utilities,False,,False,-0.15,,False,Utilities,0.967
+inv_0292,TelecomNet Maroc,TNM-2025-98046,2025-11-03,1711.97,Utilities,False,,False,1.28,,False,Utilities,0.87
+inv_0293,Pixel Studio Agency,PSA-2025-64569,2025-08-31,3350.3,Marketing,False,,False,-2.0,,False,Marketing,0.982
+inv_0294,Delta Legal Partners,DLP-2026-55915,2026-09-02,1922.96,Consulting,False,,False,-0.8,,False,Consulting,0.655
+inv_0295,Sahara Advisory,SAH-2026-19115,2026-04-14,10249.85,Consulting,False,,False,-0.42,,False,Consulting,0.904
+inv_0296,LabTools Maroc,LTM-2026-86639,2026-02-22,4161.18,Equipment,False,,False,0.52,,False,Equipment,0.957
+inv_0297,Riad Hotels Group,RHG-2026-21944,2026-01-07,2922.63,Travel,False,,False,0.0,,False,Travel,0.82
+inv_0298,Atlas Cloud Hosting,ACH-2025-13598,2025-06-29,6257.74,Software & Cloud,False,,False,1.6,,False,Software & Cloud,0.912
+inv_0299,Maghreb Air Voyages,MAV-2026-96282,2026-07-20,5001.94,Travel,False,,False,0.68,,False,Travel,0.961
+inv_0300,Sahara Advisory,SAH-2026-40021,2026-01-06,8664.74,Consulting,False,,False,-1.18,,False,Consulting,0.983
+inv_0301,LabTools Maroc,LTM-2025-98445,2025-11-15,2930.34,Equipment,False,,False,-0.59,,False,Equipment,0.975
+inv_0302,AdWave Media,AWM-2026-06118,2026-06-05,2841.35,Marketing,False,,False,-0.53,,False,Marketing,0.957
+inv_0303,Hardware Hub,HWH-2025-88670,2025-03-28,3645.46,Equipment,False,,False,-1.63,,False,Equipment,0.869
+inv_0304,Nimbus Data Services,NDS-2025-40371,2025-06-16,825.58,Software & Cloud,False,,False,-0.74,,False,Software & Cloud,0.9
+inv_0305,Eau et Lumiere SA,ELS-2025-81359,2025-07-22,2402.21,Utilities,False,,False,-0.55,,False,Utilities,0.913
+inv_0306,Eau et Lumiere SA,ELS-2025-14742,2025-10-01,3691.39,Utilities,False,,False,0.99,,False,Utilities,0.931
+inv_0307,Delta Legal Partners,DLP-2025-19933,2025-02-15,2468.64,Consulting,False,,False,-0.1,,False,Consulting,0.834
+inv_0308,Atlas Cloud Hosting,ACH-2026-40054,2026-08-04,18650.06,Software & Cloud,False,,True,4.45,amount,False,Software & Cloud,0.957
+inv_0309,Hardware Hub,HWH-2025-40233,2025-04-24,5010.5,Equipment,False,,False,0.02,,False,Equipment,0.804
+inv_0310,Delta Legal Partners,DLP-2025-24345,2025-12-25,3102.49,Consulting,False,,False,0.55,,False,Consulting,0.926
+inv_0311,OfficeMart Maroc,OMM-2026-56696,2026-08-15,1304.22,Office Supplies,False,,False,-0.92,,False,Office Supplies,0.977
+inv_0312,Nimbus Data Services,NDS-2026-37682,2026-01-26,1349.66,Software & Cloud,False,,False,0.29,,False,Software & Cloud,0.955
+inv_0313,PrintPoint,PPT-2025-79083,2025-03-10,72.32,Office Supplies,False,,False,-0.67,,False,Office Supplies,0.635
+inv_0314,CodeForge Licenses,CFL-2025-42618,2025-05-05,1831.46,Software & Cloud,False,,False,-0.9,,False,Software & Cloud,0.802
+inv_0315,TelecomNet Maroc,TNM-2025-58419,2025-03-02,768.29,Utilities,False,,False,-1.03,,False,Utilities,0.833
+inv_0316,OfficeMart Maroc,OMM-2025-82504,2025-10-29,1449.1,Office Supplies,False,,False,-0.55,,False,Office Supplies,0.933
+inv_0317,AdWave Media,AWM-2026-93468,2026-07-04,4801.03,Marketing,False,,False,0.72,,False,Marketing,0.912
+inv_0318,PrintPoint,PPT-2025-76667,2025-04-02,105.98,Office Supplies,False,,False,0.41,,False,Office Supplies,0.826
+inv_0319,Nimbus Data Services,NDS-2026-69670,2026-01-16,709.32,Software & Cloud,False,,False,-1.05,,False,Software & Cloud,0.952
+inv_0320,LabTools Maroc,LTM-2025-44785,2025-07-15,7525.75,Equipment,False,,False,2.39,,False,Equipment,0.961
+inv_0321,Papeterie Centrale,PCE-2025-26369,2025-09-29,350.12,Office Supplies,False,,False,-2.08,,False,Office Supplies,0.94
+inv_0322,Hardware Hub,HWH-2025-84093,2025-01-14,3837.92,Equipment,False,,False,-1.36,,False,Equipment,0.964
+inv_0323,Rapide Rail Tickets,RRT-2025-55184,2025-12-30,204.25,Travel,False,,False,0.59,,False,Travel,0.969
+inv_0324,Delta Legal Partners,DLP-2025-62423,2025-11-23,1914.37,Consulting,False,,False,-0.82,,False,Consulting,0.912
+inv_0325,Papeterie Centrale,PCE-2025-33023,2025-12-29,364.8,Office Supplies,False,,False,-1.9,,False,Office Supplies,0.887
+inv_0326,TechParts Casablanca,TPC-2025-57237,2025-06-14,5000.86,Equipment,False,,False,-1.32,,False,Equipment,0.817
+inv_0327,Pixel Studio Agency,PSA-2026-03619,2026-01-24,10969.32,Marketing,False,,False,2.53,,False,Marketing,0.964
+inv_0328,Pixel Studio Agency,PSA-2025-42385,2025-03-14,6445.34,Marketing,False,,False,0.5,,False,Marketing,0.951
+inv_0329,Optima Audit Firm,OAF-2026-13634,2026-01-27,21802.85,Consulting,False,,False,1.72,,False,Consulting,0.952
+inv_0330,AdWave Media,AWM-2025-61691,2025-02-25,4108.75,Marketing,False,,False,0.35,,False,Marketing,0.863
+inv_0331,Eau et Lumiere SA,ELS-2026-79416,2026-04-29,4171.46,Utilities,False,,False,1.42,,False,Utilities,0.978
+inv_0332,Papeterie Centrale,PCE-2025-61150,2025-02-08,9290.35,Office Supplies,False,,True,12.48,amount,False,Office Supplies,0.943
+inv_0333,Nimbus Data Services,NDS-2026-83708,2026-07-24,821.57,Software & Cloud,False,,False,-0.75,,False,Software & Cloud,0.927
+inv_0334,Maghreb Air Voyages,MAV-2025-24503,2025-04-09,3421.94,Travel,False,,False,-0.65,,False,Travel,0.911
+inv_0335,TechParts Casablanca,TPC-2025-09456,2025-01-03,11298.12,Equipment,False,,False,0.67,,False,Equipment,0.895
+inv_0336,Pixel Studio Agency,PSA-2026-38138,2026-09-22,4589.42,Marketing,False,,False,-0.8,,False,Marketing,0.977
+inv_0337,Papeterie Centrale,PCE-2026-14471,2026-03-16,490.14,Office Supplies,False,,False,-0.59,,False,Office Supplies,0.976
+inv_0338,Sahara Advisory,SAH-2025-19376,2025-10-30,10492.91,Consulting,False,,False,-0.31,,False,Consulting,0.974
+inv_0339,Papeterie Centrale,PCE-2026-50512,2026-06-17,402.04,Office Supplies,False,,False,-1.47,,False,Office Supplies,0.977
+inv_0340,Nimbus Data Services,NDS-2025-81097,2025-07-04,1175.18,Software & Cloud,False,,False,0.0,,False,Software & Cloud,0.777
+inv_0341,TechParts Casablanca,TPC-2025-21252,2025-04-07,4083.96,Equipment,False,,False,-1.82,,False,Equipment,0.903
+inv_0342,Optima Audit Firm,OAF-2025-00227,2025-12-03,17754.5,Consulting,False,,False,0.84,,False,Consulting,0.953
+inv_0343,Delta Legal Partners,DLP-2026-82180,2026-03-12,2494.21,Marketing,False,,False,-0.07,,True,Consulting,0.886
+inv_0344,OfficeMart Maroc,OMM-2026-68004,2026-02-22,1976.28,Office Supplies,False,,False,0.56,,False,Office Supplies,0.72
+inv_0345,Rapide Rail Tickets,RRT-2026-57409,2026-09-18,115.16,Travel,False,,False,-0.87,,False,Travel,0.968
+inv_0346,CodeForge Licenses,CFL-2026-39833,2026-02-05,2024.03,Software & Cloud,False,,False,-0.49,,False,Software & Cloud,0.806
+inv_0347,CodeForge Licenses,CFL-2025-73047,2025-05-26,2973.72,Marketing,False,,False,1.1,,True,Software & Cloud,0.775
+inv_0348,LabTools Maroc,LTM-2025-42296,2025-12-17,4370.83,Equipment,False,,False,0.67,,False,Equipment,0.968
+inv_0349,Papeterie Centrale,PCE-2025-87913,2025-12-26,435.5,Office Supplies,False,,False,-1.11,,False,Office Supplies,0.955
+inv_0350,AdWave Media,AWM-2025-86668,2025-11-16,4131.62,Marketing,False,,False,0.36,,False,Marketing,0.968
+inv_0351,CodeForge Licenses,CFL-2026-76503,2026-08-07,2322.26,Software & Cloud,False,,False,0.08,,False,Software & Cloud,0.926
+inv_0352,Optima Audit Firm,OAF-2026-71065,2026-01-08,14709.35,Consulting,False,,False,0.02,,False,Consulting,0.949
+inv_0353,TechParts Casablanca,TPC-2025-29358,2025-01-31,6202.03,Equipment,False,,False,-0.8,,False,Equipment,0.966
+inv_0354,TechParts Casablanca,TPC-2026-30778,2026-01-14,5441.28,Equipment,False,,False,-1.12,,False,Equipment,0.858
+inv_0355,Maghreb Air Voyages,MAV-2026-62852,2026-05-12,7092.23,Travel,False,,False,1.91,,False,Travel,0.961
+inv_0356,Delta Legal Partners,DLP-2026-07510,2026-07-23,1944.41,Consulting,False,,False,-0.77,,False,Consulting,0.955
+inv_0357,TechParts Casablanca,TPC-2025-07852,2025-04-23,12686.47,Equipment,False,,False,0.96,,False,Equipment,0.895
+inv_0358,CodeForge Licenses,CFL-2026-34774,2026-05-04,2008.5,Software & Cloud,False,,False,-0.52,,False,Software & Cloud,0.881
+inv_0359,Optima Audit Firm,OAF-2025-15691,2025-03-11,11966.08,Consulting,False,,False,-0.87,,False,Consulting,0.935
+inv_0360,Nimbus Data Services,NDS-2026-84991,2026-07-05,779.47,Software & Cloud,False,,False,-0.86,,False,Software & Cloud,0.881
+inv_0361,Riad Hotels Group,RHG-2026-42207,2026-02-01,2547.2,Travel,False,,False,-0.71,,False,Travel,0.922
+inv_0362,Nimbus Data Services,NDS-2025-57543,2025-10-20,598.1,Software & Cloud,False,,False,-1.41,,False,Software & Cloud,0.932
+inv_0363,CodeForge Licenses,CFL-2026-03281,2026-02-16,2233.54,Utilities,False,,False,-0.08,,True,Software & Cloud,0.816
+inv_0364,Papeterie Centrale,PCE-2026-26465,2026-04-27,517.2,Office Supplies,False,,False,-0.35,,False,Office Supplies,0.955
+inv_0365,Delta Legal Partners,DLP-2026-87644,2026-02-27,2390.51,Consulting,False,,False,-0.19,,False,Consulting,0.912
+inv_0366,PrintPoint,PPT-2026-59528,2026-09-14,65.92,Equipment,False,,False,-0.94,,True,Office Supplies,0.902
+inv_0367,Riad Hotels Group,RHG-2026-17730,2026-06-19,1529.62,Travel,False,,True,-3.34,amount,False,Travel,0.935
+inv_0368,LabTools Maroc,LTM-2026-33185,2026-02-23,2561.69,Equipment,False,,False,-1.01,,False,Equipment,0.967
+inv_0369,Maghreb Air Voyages,MAV-2025-37964,2025-01-18,6232.56,Travel,False,,False,1.46,,False,Travel,0.942
+inv_0370,TelecomNet Maroc,TNM-2026-15283,2026-08-21,1339.45,Consulting,False,,False,0.57,,True,Utilities,0.906
+inv_0371,PrintPoint,PPT-2026-50069,2026-08-08,116.32,Office Supplies,False,,False,0.68,,False,Office Supplies,0.926
+inv_0372,Nimbus Data Services,NDS-2026-27832,2026-04-29,14453.23,Software & Cloud,False,,True,5.24,amount,False,Software & Cloud,0.98
+inv_0373,OfficeMart Maroc,OMM-2026-11659,2026-03-17,2192.62,Office Supplies,False,,False,0.93,,False,Office Supplies,0.898
+inv_0374,Optima Audit Firm,OAF-2025-29173,2025-05-11,12513.17,Consulting,False,,False,-0.67,,False,Consulting,0.938
+inv_0375,Delta Legal Partners,DLP-2026-71163,2026-08-14,1978.06,Consulting,False,,False,-0.72,,False,Consulting,0.804
+inv_0376,Sahara Advisory,SAH-2026-84160,2026-07-18,16485.62,Consulting,False,,False,1.76,,False,Consulting,0.91
+inv_0377,Sahara Advisory,SAH-2025-21419,2025-09-19,13604.88,Consulting,False,,False,0.88,,False,Consulting,0.964
+inv_0378,Rapide Rail Tickets,RRT-2025-91212,2025-03-29,91.52,Travel,False,,False,-1.46,,False,Travel,0.949
+inv_0379,OfficeMart Maroc,OMM-2025-03139,2025-01-20,3051.41,Office Supplies,False,,False,2.1,,False,Office Supplies,0.967
+inv_0380,Delta Legal Partners,DLP-2025-54708,2025-10-26,4185.29,Marketing,False,,False,1.4,,True,Consulting,0.937
+inv_0381,Riad Hotels Group,RHG-2025-44788,2025-12-03,2237.46,Travel,False,,False,-1.38,,False,Travel,0.944
+inv_0382,Eau et Lumiere SA,ELS-2025-08604,2025-04-07,2754.96,Utilities,False,,False,-0.06,,False,Utilities,0.977
+inv_0383,Papeterie Centrale,PCE-2026-28284,2026-08-20,752.08,Office Supplies,False,,False,1.31,,False,Office Supplies,0.956
+inv_0384,Atlas Cloud Hosting,ACH-2025-94944,2025-08-23,4387.22,Software & Cloud,False,,False,0.67,,False,Software & Cloud,0.891
+inv_0385,LabTools Maroc,LTM-2026-25210,2026-09-22,4106.76,Equipment,False,,False,0.48,,False,Equipment,0.932
+inv_0386,Sahara Advisory,SAH-2026-41348,2026-02-11,10136.86,Consulting,False,,False,-0.47,,False,Consulting,0.983
+inv_0387,OfficeMart Maroc,OMM-2026-03962,2026-04-18,1890.17,Office Supplies,False,,False,0.4,,False,Office Supplies,0.976
+inv_0388,PrintPoint,PPT-2026-29083,2026-06-10,1144.5,Office Supplies,False,,True,7.18,amount,False,Office Supplies,0.925
+inv_0389,Delta Legal Partners,DLP-2026-06692,2026-09-26,3429.13,Office Supplies,False,,False,0.84,,True,Consulting,0.929
+inv_0390,Delta Legal Partners,DLP-2026-68132,2026-03-24,3233.3,Consulting,False,,False,0.67,,False,Consulting,0.938
+inv_0391,Nimbus Data Services,NDS-2025-37753,2025-02-02,1574.64,Software & Cloud,False,,False,0.61,,False,Software & Cloud,0.915
+inv_0392,Hardware Hub,HWH-2025-47505,2025-12-13,3587.35,Equipment,False,,False,-1.72,,False,Equipment,0.819
+inv_0393,TechParts Casablanca,TPC-2026-29685,2026-04-30,13334.62,Equipment,False,,False,1.08,,False,Equipment,0.944
+inv_0394,Eau et Lumiere SA,ELS-2025-67246,2025-04-20,2471.32,Utilities,False,,False,-0.45,,False,Utilities,0.973
+inv_0395,Delta Legal Partners,DLP-2025-86462,2025-07-12,1624.64,Consulting,False,,False,-1.28,,False,Consulting,0.93
+inv_0396,Nimbus Data Services,NDS-2025-29875,2025-12-01,1419.31,Software & Cloud,False,,False,0.4,,False,Software & Cloud,0.777
+inv_0397,OfficeMart Maroc,OMM-2025-88577,2025-01-13,1254.79,Office Supplies,False,,False,-1.06,,False,Office Supplies,0.973
+inv_0398,Riad Hotels Group,RHG-2025-70664,2025-09-03,3313.37,Travel,False,,False,0.65,,False,Travel,0.939
+inv_0399,Eau et Lumiere SA,ELS-2026-98161,2026-04-18,3182.45,Utilities,False,,False,0.46,,False,Utilities,0.96
+inv_0400,CodeForge Licenses,CFL-2026-08869,2026-09-22,1958.58,Software & Cloud,False,,False,-0.62,,False,Utilities,0.302
+inv_0401,Maghreb Air Voyages,MAV-2025-50368,2025-07-20,4737.58,Travel,True,inv_0098,False,0.49,,False,Travel,0.941
+inv_0402,Optima Audit Firm,OAF-2025-04196,2025-01-03,17419.3,Consulting,True,inv_0210,False,0.75,,False,Consulting,0.819
+inv_0403,Nimbus Data Services,NDS-2026-84991,2026-07-05,779.47,Software & Cloud,True,inv_0360,False,-0.86,,False,Software & Cloud,0.881
+inv_0404,Delta Legal Partners,DLP-2025-12249,2025-06-10,3240.16,Consulting,True,inv_0235,False,0.67,,False,Consulting,0.88
+inv_0405,Pixel Studio Agency,PSA-2026-50194,2026-03-06,6743.23,Marketing,True,inv_0252,False,0.67,,False,Marketing,0.961
+inv_0406,Rapide Rail Tickets,RRT-2025-40894,2025-07-26,182.24,Travel,True,inv_0010,False,0.3,,False,Travel,0.969
+inv_0407,Pixel Studio Agency,PSA-2026-45463,2026-05-27,4331.46,Marketing,True,inv_0131,False,-1.02,,False,Marketing,0.977
+inv_0408,AdWave Media,AWM-2025-42774,2025-07-12,3552.12,Marketing,True,inv_0055,False,0.0,,False,Marketing,0.912
+inv_0409,Optima Audit Firm,OAF-2026-22503,2026-06-01,15320.84,Consulting,True,inv_0063,False,0.2,,False,Consulting,0.949
+inv_0410,Riad Hotels Group,RHG-2025-08701,2025-01-27,3149.82,Travel,True,inv_0070,False,0.39,,False,Travel,0.979
+inv_0411,TechParts Casablanca,TPC-2025-57237,2025-06-14,5000.86,Equipment,True,inv_0326,False,-1.32,,False,Equipment,0.817
+inv_0412,Sahara Advisory,SAH-2025-19376,2025-10-30,10492.91,Consulting,True,inv_0338,False,-0.31,,False,Consulting,0.954
+inv_0413,Papeterie Centrale,PCE-2025-83626,2025-04-22,664.08,Office Supplies,True,inv_0099,False,0.76,,False,Office Supplies,0.976
+inv_0414,TechParts Casablanca,TPC-2026-02940,2026-05-12,9551.47,Equipment,True,inv_0185,False,0.26,,False,Equipment,0.895
+inv_0415,AdWave Media,AWM-2026-59588,2026-09-18,2679.82,Marketing,True,inv_0272,False,-0.67,,False,Marketing,0.93
+inv_0416,CodeForge Licenses,CFL-2026-76503,2026-08-07,2322.26,Software & Cloud,True,inv_0351,False,0.08,,False,Software & Cloud,0.924

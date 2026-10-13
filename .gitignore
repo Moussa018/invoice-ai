@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+data/
+data_hard/
+models/
+*.pyc

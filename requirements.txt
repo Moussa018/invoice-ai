@@ -1,0 +1,8 @@
+# Core (everything except the LLM backends). Also needs the Tesseract binary:
+#   sudo apt install tesseract-ocr tesseract-ocr-fra     (macOS: brew install tesseract)
+pillow>=10.1
+numpy
+pandas
+scikit-learn
+pytesseract
+pytest

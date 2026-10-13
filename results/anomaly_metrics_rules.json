@@ -1,0 +1,39 @@
+{
+  "duplicate": {
+    "tp": 16,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "n_positive": 16
+  },
+  "amount": {
+    "tp": 13,
+    "fp": 3,
+    "fn": 3,
+    "precision": 0.812,
+    "recall": 0.812,
+    "f1": 0.812,
+    "n_positive": 16
+  },
+  "category": {
+    "tp": 20,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "n_positive": 20
+  },
+  "any": {
+    "tp": 49,
+    "fp": 3,
+    "fn": 3,
+    "precision": 0.942,
+    "recall": 0.942,
+    "f1": 0.942,
+    "n_positive": 52
+  },
+  "n_docs": 416
+}
